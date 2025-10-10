@@ -1,0 +1,8 @@
+ls
+find / usr
+du /
+uniq /var/log/system.log
+cd /notes          # expected error on deep (no /notes)
+chown /notes/todo.txt alice   # expected error
+uniq /hello.txt    # expected error on deep
+exit

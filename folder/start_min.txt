@@ -1,0 +1,8 @@
+ls
+find / usr
+du /
+uniq /hello.txt
+cd /notes
+chown /notes/todo.txt alice
+uniq /var/log/system.log  # expected error on min (file absent)
+exit

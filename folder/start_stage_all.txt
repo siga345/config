@@ -1,0 +1,9 @@
+# demo all
+ls
+find / usr
+du /
+uniq /hello.txt       # ок в min, в deep даст понятную ошибку
+cd /notes             # ок в min; в deep — ошибка (показывает обработку)
+chown /notes/todo.txt alice
+uniq /var/log/system.log  # ок в deep; в min — ошибка
+exit
