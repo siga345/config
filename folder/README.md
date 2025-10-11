@@ -68,8 +68,8 @@ exit                      # выход; в скрипте останавлива
 
 ## Скриншоты для отчёта
 Рекомендуется приложить два набора скринов GUI:
-1. **MIN + start_min.txt** — `ls`, `uniq /hello.txt`, `cd /notes`, `chown /notes/todo.txt alice`, ошибка на `/var/log/system.log`, `du /`.
-2. **DEEP + start_deep.txt** — `ls` с `home/ usr/ var/`, `find / usr`, `uniq /var/log/system.log`, ошибки на `/notes` и `/hello.txt`, `du /`.
+1. ![Снимок экрана 2025-10-10 в 11.39.25.png](%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-10-10%20%D0%B2%2011.39.25.png)
+2. ![Снимок экрана 2025-10-10 в 11.39.51.png](%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-10-10%20%D0%B2%2011.39.51.png)
 
 ## Структура репозитория
 ```
