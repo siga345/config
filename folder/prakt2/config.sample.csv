@@ -1,0 +1,6 @@
+# CSV config for Variant 22
+package_name,react
+repo_or_path,https://github.com/facebook/react
+test_mode,false
+ascii_tree,true
+max_depth,2

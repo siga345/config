@@ -1,0 +1,13 @@
+{
+  "name": "react",
+  "version": "18.3.1",
+  "description": "React is a JavaScript library for building user interfaces.",
+  "dependencies": {
+    "loose-envify": "^1.4.0",
+    "object-assign": "^4.1.1",
+    "scheduler": "^0.23.0"
+  },
+  "peerDependencies": {
+    "react-dom": "^18.0.0"
+  }
+}

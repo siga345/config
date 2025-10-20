@@ -1,0 +1,6 @@
+# Cycle and branching
+A:B
+B:C,D
+C:A
+D:E
+E:

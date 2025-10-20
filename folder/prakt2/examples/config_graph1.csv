@@ -1,0 +1,5 @@
+package_name,A
+repo_or_path,tests/graphs/graph1.txt
+test_mode,true
+ascii_tree,true
+max_depth,3

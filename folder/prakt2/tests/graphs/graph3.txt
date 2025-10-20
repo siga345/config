@@ -1,0 +1,5 @@
+# Disconnected nodes
+A:B
+B:
+X:Y
+Y:

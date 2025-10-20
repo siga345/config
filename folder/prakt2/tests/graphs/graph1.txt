@@ -1,0 +1,6 @@
+# Simple acyclic
+A:B,C
+B:D
+C:D,E
+D:
+E:

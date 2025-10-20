@@ -1,0 +1,5 @@
+package_name,react
+repo_or_path,react_package.json
+test_mode,false
+ascii_tree,false
+max_depth,1
